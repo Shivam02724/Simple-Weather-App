@@ -31,11 +31,11 @@ header input {
   padding: 10px 15px;
   border: none;
   outline: none;
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(6, 5, 5, 0.3);
   border-radius: 0px 16px 0px 16px;
-  border-bottom: 3px solid gray;
+  border-bottom: 3px solid rgb(236, 230, 230);
 
-  color: #313131;
+  color: #fafafa;
   font-size: 20px;
   font-weight: 300;
   transition: 0.2s ease-out;
